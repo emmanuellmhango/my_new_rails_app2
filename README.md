@@ -31,7 +31,6 @@
 <details>
   <summary>Client</summary>
   <ul> 
-    <li><a href="https://github.com/microverseinc/linters-config/tree/master/ror">Linters</a></li>
     <li><a href="https://react.dev/">React.js</a></li>   
   </ul>
 </details>
